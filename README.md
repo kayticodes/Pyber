@@ -1,4 +1,12 @@
 # Pyber
+3 observable trends: added 03/29/19 
+> A majority of riders are in Urban areas. 
+> There are more drivers located in urban city types than in rural or suburban areas. 
+> The greatest collections are generated through urban city types.
+With the above observations we can see that the ride share program flourishes in urban city types. With this information we can look to invest resources in expanding the pyber program to other urban city type locations. 
+
+<iframe src="https://giphy.com/embed/SGn5JVUaufbCLiGEiH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-travel-city-SGn5JVUaufbCLiGEiH">via GIPHY</a></p>
+
 Unit 5 | Assignment - The Power of Plots
 ~The following is taken directly from the UCBX assignment details ~
 
